@@ -1,10 +1,10 @@
 # My-CV
 
-## Instruction
+## Instructions
 
 We had to create a small website with our cv. 
 
-#
+## Techno
 
 I used html and css
 
